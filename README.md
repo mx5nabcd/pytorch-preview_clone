@@ -1,1 +1,1 @@
-# mnist_clone
+# 완료
